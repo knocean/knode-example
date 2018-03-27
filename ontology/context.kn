@@ -55,6 +55,10 @@ label: Tyto alba
 label: primary remex feather
 definition: A remex feather that is connected to the manus
 
+: ex:template
+knp:template-content: 
+ label: Foo {label}
+
 : ex:0000001
 label: birth date
 default datatype: xsd:date

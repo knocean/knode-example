@@ -1,3 +1,7 @@
+: ex:01
+knp:apply-template: ex:template 
+ label: Bar
+
 : ex:0000111
 label: barn owl primary remex feather
 type: owl:Class
