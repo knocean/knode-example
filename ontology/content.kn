@@ -36,3 +36,7 @@ coloration: light brown with darker bands
 : SUBJECT
 knp:apply-template: ex:template
  label: REQUIRED
+
+: ex:0033334
+knp:apply-template: ex:template
+ label: manually added example
