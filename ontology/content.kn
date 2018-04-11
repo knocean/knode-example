@@ -40,3 +40,8 @@ knp:apply-template: ex:template
 : ex:0033334
 knp:apply-template: ex:template
  label: manually added example
+
+
+: ex:12321
+knp:apply-template: ex:template
+ label: example 12321
